@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+    <style name="DarkApp" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/BWPrimary</item>
+        <item name="colorPrimaryDark">@color/BWPrimaryDark</item>
+        <item name="colorAccent">@color/BWAccent</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+</resources>

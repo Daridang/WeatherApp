@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="enter_city_name_hint">Enter city name</string>
+    <string name="search_btn_txt">search</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="weather_icon_description">Weather icon</string>
+    <string name="about_app">This simple weather application uses the https://openweathermap.org API. The application was developed during the course on android development and is part of my portfolio. The following libraries were used during development: Androidx, Retrofit, RxJava2, Moxy, Lombok, and the MVP pattern.</string>
+    <string name="about_title">About App</string>
+</resources>

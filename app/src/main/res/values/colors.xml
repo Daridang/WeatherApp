@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="BWPrimary">#414040</color>
+    <color name="BWPrimaryDark">#232323</color>
+    <color name="textColor">#ffffff</color>
+    <color name="BWAccent">#24b04d</color>
+    <color name="BWLight">#5b5b5b</color>
+</resources>
